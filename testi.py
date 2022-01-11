@@ -1,6 +1,6 @@
 # Ensinmäinen harjoitus muuttujat, näppäimstä ja näyttö
 
-# Määritellään muuttujat
+# Määritellään muuttujat ja kysytään arvot käyttäjältä
 
 first_name = input('Mikä on etunimesi? ')
 favourite_place = input('Mikä on suosikkipaikkasi? ')
